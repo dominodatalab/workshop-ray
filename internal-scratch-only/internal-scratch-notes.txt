@@ -1,0 +1,6 @@
+References:
+
+https://medium.com/distributed-computing-with-ray/how-to-scale-python-multiprocessing-to-a-cluster-with-one-line-of-code-d19f242f60ff
+
+https://rednafi.github.io/digressions/python/2020/04/21/python-concurrent-futures.html
+https://docs.python.org/3/library/concurrent.futures.html

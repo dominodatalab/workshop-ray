@@ -1,0 +1,439 @@
+#Add comments here
+,local_version,cluster_version,status
+AutoROM,,0.4.2,local missing
+AutoROM.accept-rom-license,,0.4.2,local missing
+Automat,20.2.0,,cluster missing
+Babel,2.9.1,,cluster missing
+Brotli,1.0.9,,cluster missing
+ConfigSpace,,0.4.18,local missing
+Cython,,0.29.23,local missing
+Deprecated,1.2.13,1.2.13,matching
+FLAML,,0.6.7,local missing
+Flask,2.0.3,2.0.2,mismatch
+Flask-Compress,1.10.1,,cluster missing
+Flask-Cors,3.0.10,3.0.10,matching
+GPy,,1.10.0,local missing
+GitPython,3.1.26,3.1.24,mismatch
+HEBO,,0.1.0,local missing
+HeapDict,,1.0.1,local missing
+Jinja2,3.0.3,3.0.3,matching
+Keras-Preprocessing,,1.1.2,local missing
+Mako,,1.1.6,local missing
+Markdown,,3.3.6,local missing
+MarkupSafe,2.1.0,2.0.1,mismatch
+PettingZoo,,1.11.1,local missing
+Pillow,9.0.1,8.4.0,mismatch
+Protego,0.2.0,,cluster missing
+PyDispatcher,2.0.5,,cluster missing
+PyJWT,2.1.0,1.7.1,mismatch
+PyNaCl,,1.4.0,local missing
+PySocks,1.7.1,1.7.1,matching
+PyWavelets,1.4.1,1.2.0,mismatch
+PyYAML,6.0,6.0,matching
+Pygments,2.11.2,2.10.0,mismatch
+Pyro4,,4.81,local missing
+QtPy,2.0.1,1.11.3,mismatch
+SQLAlchemy,,1.4.28,local missing
+Scrapy,2.5.1,,cluster missing
+Send2Trash,1.8.0,1.8.0,matching
+SuperSuit,,2.6.6,local missing
+Theano,1.0.5,,cluster missing
+Twisted,22.1.0,,cluster missing
+Werkzeug,2.0.3,2.0.2,mismatch
+absl-py,,0.15.0,local missing
+adal,,1.2.7,local missing
+aioboto3,,8.3.0,local missing
+aiobotocore,,1.2.2,local missing
+aiohttp,3.7.4.post0,3.8.1,mismatch
+aiohttp-cors,0.7.0,0.7.0,matching
+aioitertools,,0.8.0,local missing
+aioredis,1.3.1,1.3.1,matching
+aiosignal,1.2.0,1.2.0,matching
+ale-py,,0.7.3,local missing
+alembic,,1.4.1,local missing
+anyio,3.5.0,3.4.0,mismatch
+applicationinsights,,0.11.10,local missing
+argcomplete,,1.12.3,local missing
+argon2-cffi,21.3.0,21.3.0,matching
+argon2-cffi-bindings,21.2.0,21.2.0,matching
+asgiref,,3.4.1,local missing
+asn1crypto,1.4.0,,cluster missing
+asttokens,2.0.5,,cluster missing
+astunparse,,1.6.3,local missing
+async-timeout,3.0.1,4.0.2,mismatch
+attrs,21.4.0,21.2.0,mismatch
+autocfg,,0.0.8,local missing
+autogluon.core,,0.1.0,local missing
+autograd,,1.3,local missing
+autopage,,0.4.0,local missing
+ax-platform,,0.2.1,local missing
+azure-cli-core,,2.22.0,local missing
+azure-cli-telemetry,,1.0.6,local missing
+azure-common,1.1.27,1.1.27,matching
+azure-core,1.17.0,1.21.1,mismatch
+azure-mgmt-compute,,14.0.0,local missing
+azure-mgmt-core,,1.3.0,local missing
+azure-mgmt-msi,,1.0.0,local missing
+azure-mgmt-network,,10.2.0,local missing
+azure-mgmt-resource,,13.0.0,local missing
+azure-storage-blob,12.8.1,,cluster missing
+backcall,0.2.0,0.2.0,matching
+backoff,1.10.0,1.10.0,matching
+backports.functools-lru-cache,1.6.4,,cluster missing
+bayesian-optimization,,1.2.0,local missing
+bcrypt,,3.2.0,local missing
+beautifulsoup4,4.10.0,,cluster missing
+black,22.1.0,,cluster missing
+bleach,4.1.0,4.1.0,matching
+blessed,1.19.1,1.19.0,mismatch
+blist,,1.3.6,local missing
+bokeh,,2.4.2,local missing
+boto3,1.18.27,1.20.26,mismatch
+botocore,1.21.27,1.23.26,mismatch
+botorch,,0.5.0,local missing
+brotlipy,0.7.0,0.7.0,matching
+bs4,0.0.1,,cluster missing
+cachetools,5.2.0,4.2.4,mismatch
+cairocffi,1.3.0,,cluster missing
+certifi,2021.10.8,2021.10.8,matching
+cffi,1.14.6,1.14.6,matching
+chardet,3.0.4,4.0.0,mismatch
+charset-normalizer,2.0.4,2.0.9,mismatch
+chex,,0.1.0,local missing
+clang,,5.0,local missing
+click,8.0.4,8.0.3,mismatch
+cliff,,3.10.0,local missing
+cloudpickle,2.2.0,2.0.0,mismatch
+cma,,2.7.0,local missing
+cmaes,,0.8.2,local missing
+cmd2,,2.3.3,local missing
+colorama,0.4.4,0.4.4,matching
+colorful,0.5.4,0.5.4,matching
+colorlog,,6.6.0,local missing
+conda,4.11.0,4.11.0,matching
+conda-package-handling,1.7.3,1.7.3,matching
+configparser,,5.2.0,local missing
+constantly,15.1.0,,cluster missing
+cryptography,3.4.8,3.3.2,mismatch
+cssselect,1.1.0,,cluster missing
+cx-Oracle,8.3.0,,cluster missing
+cycler,0.11.0,0.11.0,matching
+dask,,2021.11.0,local missing
+databricks-cli,,0.16.2,local missing
+debugpy,1.5.1,1.5.1,matching
+decorator,5.1.1,5.1.0,mismatch
+decord,,0.6.0,local missing
+defusedxml,0.7.1,0.7.1,matching
+dill,,0.3.3,local missing
+distributed,,2021.11.0,local missing
+dm-tree,0.1.7,0.1.6,mismatch
+docker,,5.0.3,local missing
+docker-pycreds,,0.4.0,local missing
+docutils,,0.18.1,local missing
+domino-data-capture,0.1.1,,cluster missing
+dominodatalab,1.0.6,,cluster missing
+dominodatalab-data,0.2.1,,cluster missing
+dopamine-rl,,4.0.2,local missing
+dragonfly-opt,,0.1.6,local missing
+entrypoints,0.4,0.3,mismatch
+executing,0.8.2,,cluster missing
+fastapi,0.85.1,0.70.1,mismatch
+filelock,3.8.0,3.4.0,mismatch
+flatbuffers,,1.12,local missing
+flax,,0.3.6,local missing
+flit-core,3.6.0,,cluster missing
+fonttools,4.29.1,4.28.5,mismatch
+freezegun,,1.1.0,local missing
+frozenlist,1.3.1,1.2.0,mismatch
+fsspec,2022.10.0,2021.11.1,mismatch
+future,,0.18.2,local missing
+gast,,0.4.0,local missing
+gin-config,,0.5.0,local missing
+gitdb,4.0.9,4.0.9,matching
+gluoncv,,0.10.1.post0,local missing
+google-api-core,2.10.2,2.3.2,mismatch
+google-api-python-client,,1.7.8,local missing
+google-auth,2.13.0,2.3.3,mismatch
+google-auth-httplib2,,0.1.0,local missing
+google-auth-oauthlib,,0.4.6,local missing
+google-oauth,,1.0.1,local missing
+google-pasta,,0.2.0,local missing
+googleapis-common-protos,1.56.4,1.54.0,mismatch
+gpustat,1.0.0,1.0.0b1,mismatch
+gpytorch,,1.6.0,local missing
+graphviz,,0.8.4,local missing
+greenlet,,1.1.2,local missing
+grpcio,1.50.0,1.43.0,mismatch
+gunicorn,,20.1.0,local missing
+gym,0.26.2,0.21.0,mismatch
+gym-notices,0.0.8,,cluster missing
+h11,0.12.0,0.12.0,matching
+h2,3.2.0,,cluster missing
+h5py,,3.1.0,local missing
+higher,,0.2.1,local missing
+hiredis,2.0.0,2.0.0,matching
+hpack,3.0.0,,cluster missing
+hpbandster,,0.7.4,local missing
+httpcore,0.13.7,,cluster missing
+httplib2,,0.20.2,local missing
+httpx,0.18.2,,cluster missing
+huggingface-hub,,0.2.1,local missing
+humanfriendly,,9.2,local missing
+hyperframe,5.2.0,,cluster missing
+hyperlink,21.0.0,,cluster missing
+hyperopt,,0.2.5,local missing
+idna,3.2,2.10,mismatch
+imageio,2.22.2,2.13.4,mismatch
+importlib-metadata,4.11.1,4.10.0,mismatch
+importlib-resources,5.4.0,5.4.0,matching
+incremental,21.3.0,,cluster missing
+iniconfig,,1.1.1,local missing
+ipykernel,6.9.1,6.6.0,mismatch
+ipython,8.0.1,7.30.1,mismatch
+ipython-genutils,0.2.0,0.2.0,matching
+ipywidgets,7.6.5,7.6.5,matching
+iso8601,1.1.0,1.0.2,mismatch
+isodate,0.6.0,0.6.1,mismatch
+itemadapter,0.4.0,,cluster missing
+itemloaders,1.0.4,,cluster missing
+itsdangerous,2.1.0,2.0.1,mismatch
+jax,,0.2.26,local missing
+jaxlib,,0.1.75,local missing
+jedi,0.18.1,0.18.1,matching
+jmespath,0.10.0,0.10.0,matching
+joblib,1.1.0,1.1.0,matching
+json5,0.9.5,,cluster missing
+jsonify,0.5,,cluster missing
+jsonschema,4.4.0,4.3.2,mismatch
+jupyter,1.0.0,1.0.0,matching
+jupyter-client,7.1.2,7.1.0,mismatch
+jupyter-console,6.4.0,6.4.0,matching
+jupyter-core,4.9.2,4.9.1,mismatch
+jupyter-server,1.13.5,,cluster missing
+jupyter-server-mathjax,0.2.4,,cluster missing
+jupyter-server-proxy,3.2.1,,cluster missing
+jupyterlab,3.2.9,,cluster missing
+jupyterlab-git,0.34.2,,cluster missing
+jupyterlab-pygments,0.1.2,0.1.2,matching
+jupyterlab-server,2.10.3,,cluster missing
+jupyterlab-widgets,1.0.2,1.0.2,matching
+kaggle-environments,,1.7.11,local missing
+keras,,2.6.0,local missing
+kiwisolver,1.3.2,1.3.2,matching
+knack,,0.8.2,local missing
+kopf,1.35.6,1.35.3,mismatch
+kubernetes,24.2.0,17.17.0,mismatch
+lightgbm,3.3.2,3.2.1,mismatch
+lightgbm-ray,,0.0.2,local missing
+lightning-bolts,,0.4.0,local missing
+locket,,0.2.1,local missing
+loguru,0.5.3,,cluster missing
+lxml,4.8.0,,cluster missing
+lz4,4.0.2,3.1.10,mismatch
+matplotlib,3.5.1,3.4.3,mismatch
+matplotlib-inline,0.1.3,0.1.3,matching
+mistune,0.8.4,0.8.4,matching
+mlagents-envs,,0.27.0,local missing
+mlflow,,1.21.0,local missing
+modin,0.12.1,0.12.1,matching
+moto,,2.2.19,local missing
+msal,,1.16.0,local missing
+msgpack,1.0.4,1.0.3,mismatch
+msrest,0.6.21,0.6.21,matching
+msrestazure,,0.6.4,local missing
+multidict,5.2.0,5.2.0,matching
+mxnet,,1.8.0.post0,local missing
+mypy-extensions,0.4.3,,cluster missing
+nbclassic,0.3.5,,cluster missing
+nbclient,0.5.11,0.5.9,mismatch
+nbconvert,6.4.2,6.3.0,mismatch
+nbdime,3.1.1,,cluster missing
+nbformat,5.1.3,5.1.3,matching
+nest-asyncio,1.5.4,1.5.4,matching
+netifaces,,0.11.0,local missing
+networkx,2.8.7,2.6.3,mismatch
+nevergrad,,0.4.3.post7,local missing
+notebook,6.4.8,6.4.6,mismatch
+numpy,1.21.5,1.19.5,mismatch
+nvidia-ml-py,11.495.46,,cluster missing
+nvidia-ml-py3,,7.352.0,local missing
+oauthlib,3.1.1,3.1.1,matching
+onnx,,1.9.0,local missing
+onnxruntime,,1.9.0,local missing
+opencensus,0.11.0,0.8.0,mismatch
+opencensus-context,0.1.3,0.1.2,mismatch
+opencv-python,,3.4.16.59,local missing
+opentelemetry-api,1.1.0,1.1.0,matching
+opentelemetry-exporter-otlp,1.1.0,1.1.0,matching
+opentelemetry-exporter-otlp-proto-grpc,1.1.0,1.1.0,matching
+opentelemetry-proto,1.1.0,1.1.0,matching
+opentelemetry-sdk,1.1.0,1.1.0,matching
+opentelemetry-semantic-conventions,0.20b0,0.20b0,matching
+opt-einsum,,3.3.0,local missing
+optax,,0.0.9,local missing
+optuna,,2.9.1,local missing
+oscrypto,1.2.1,,cluster missing
+packaging,21.3,21.3,matching
+pandas,1.3.5,1.3.5,matching
+pandocfilters,1.5.0,1.5.0,matching
+paramiko,,2.8.1,local missing
+paramz,,0.9.5,local missing
+parsel,1.6.0,,cluster missing
+parso,0.8.3,0.8.3,matching
+partd,,1.2.0,local missing
+pathspec,0.9.0,,cluster missing
+pathtools,,0.1.2,local missing
+patsy,0.5.2,0.5.2,matching
+pbr,,5.8.0,local missing
+pexpect,4.8.0,4.8.0,matching
+pickleshare,0.7.5,0.7.5,matching
+pip,21.2.4,21.3.1,mismatch
+pkginfo,,1.8.2,local missing
+platformdirs,2.5.0,,cluster missing
+plotly,5.5.0,5.5.0,matching
+pluggy,,1.0.0,local missing
+polling2,0.5.0,,cluster missing
+portalocker,,1.7.1,local missing
+prettytable,,2.5.0,local missing
+priority,1.3.0,,cluster missing
+prometheus-client,0.13.1,0.12.0,mismatch
+prometheus-flask-exporter,,0.18.6,local missing
+promise,,2.3,local missing
+prompt-toolkit,3.0.28,3.0.24,mismatch
+protobuf,3.19.6,3.19.1,mismatch
+psutil,5.9.3,5.8.0,mismatch
+ptyprocess,0.7.0,0.7.0,matching
+pure-eval,0.2.2,,cluster missing
+py,,1.11.0,local missing
+py-spy,0.3.14,0.3.11,mismatch
+py4j,,0.10.9.2,local missing
+pyDeprecate,,0.3.1,local missing
+pyOpenSSL,20.0.1,20.0.1,matching
+pyaml,,21.10.1,local missing
+pyarrow,7.0.0,7.0.0,matching
+pyasn1,0.4.8,0.4.8,matching
+pyasn1-modules,0.2.8,0.2.8,matching
+pybullet,,3.1.7,local missing
+pycosat,0.6.3,0.6.3,matching
+pycparser,2.20,2.20,matching
+pycryptodome,3.14.1,,cluster missing
+pycryptodomex,3.10.1,,cluster missing
+pydantic,1.10.2,1.8.2,mismatch
+pygame,,2.1.0,local missing
+pyglet,,1.5.15,local missing
+pymoo,,0.4.2.2,local missing
+pymunk,,6.0.0,local missing
+pyparsing,3.0.7,3.0.6,mismatch
+pyperclip,,1.8.2,local missing
+pypng,,0.0.21,local missing
+pyrsistent,0.18.1,0.18.0,mismatch
+pyspark,,3.2.0,local missing
+pytest,,6.2.5,local missing
+pytest-remotedata,,0.3.2,local missing
+pytest-repeat,,0.9.1,local missing
+python-dateutil,2.8.2,2.8.2,matching
+python-editor,,1.0.4,local missing
+python-json-logger,2.0.4,2.0.2,mismatch
+pytorch-lightning,,1.4.9,local missing
+pytz,2021.3,2021.3,matching
+pyzmq,22.3.0,22.3.0,matching
+qtconsole,5.2.2,5.2.2,matching
+querystring-parser,,1.2.4,local missing
+queuelib,1.6.2,,cluster missing
+ray,1.9.2,1.9.2,matching
+ray-cpp,1.9.2,1.9.2,matching
+ray-lightning,,0.1.1,local missing
+raydp-nightly,,2021.12.16.dev0,local missing
+recsim,,0.2.4,local missing
+redis,4.1.4,4.0.2,mismatch
+regex,,2021.11.10,local missing
+requests,2.26.0,2.25.1,mismatch
+requests-oauthlib,1.3.0,1.3.0,matching
+responses,,0.16.0,local missing
+rfc3986,1.5.0,,cluster missing
+rsa,4.9,4.8,mismatch
+ruamel-yaml-conda,0.15.100,0.15.100,matching
+s3fs,,2021.11.1,local missing
+s3transfer,0.5.0,0.5.0,matching
+sacremoses,,0.0.46,local missing
+scikit-image,0.19.3,0.19.1,mismatch
+scikit-learn,1.0.2,0.24.2,mismatch
+scikit-optimize,,0.8.1,local missing
+scipy,1.7.3,1.5.4,mismatch
+seaborn,0.11.2,,cluster missing
+sentry-sdk,,1.5.1,local missing
+serpent,,1.40,local missing
+service-identity,21.1.0,,cluster missing
+setproctitle,,1.2.2,local missing
+setuptools,60.9.3,58.0.4,mismatch
+shortuuid,,1.0.1,local missing
+sigopt,,7.5.0,local missing
+simpervisor,0.4,,cluster missing
+six,1.16.0,1.15.0,mismatch
+smart-open,6.2.0,5.1.0,mismatch
+smmap,3.0.5,5.0.0,mismatch
+sniffio,1.2.0,1.2.0,matching
+snowflake-connector-python,2.6.0,,cluster missing
+sortedcontainers,,2.4.0,local missing
+soupsieve,2.3.1,,cluster missing
+sqlparse,,0.4.2,local missing
+stack-data,0.2.0,,cluster missing
+starlette,0.20.4,0.16.0,mismatch
+statsmodels,0.13.1,0.13.1,matching
+stevedore,,3.5.0,local missing
+subprocess32,,3.5.4,local missing
+tabulate,0.9.0,0.8.9,mismatch
+tblib,1.7.0,1.7.0,matching
+tenacity,8.0.1,8.0.1,matching
+tensorboard,,2.7.0,local missing
+tensorboard-data-server,,0.6.1,local missing
+tensorboard-plugin-wit,,1.8.0,local missing
+tensorboardX,2.5.1,2.4.1,mismatch
+tensorflow,,2.6.0,local missing
+tensorflow-estimator,,2.6.0,local missing
+tensorflow-probability,,0.14.0,local missing
+teradatasql,17.10.0.6,,cluster missing
+termcolor,,1.1.0,local missing
+terminado,0.13.1,0.12.1,mismatch
+testpath,0.5.0,0.5.0,matching
+tf-slim,,1.1.0,local missing
+tf2onnx,,1.8.5,local missing
+threadpoolctl,3.1.0,3.0.0,mismatch
+tifffile,2022.10.10,2021.11.2,mismatch
+timm,,0.4.5,local missing
+tokenizers,,0.10.3,local missing
+toml,,0.10.2,local missing
+tomli,2.0.1,,cluster missing
+toolz,,0.11.2,local missing
+torch,,1.9.0+cu111,local missing
+torchmetrics,,0.6.2,local missing
+torchvision,,0.10.0+cu111,local missing
+tornado,6.1,6.1,matching
+tqdm,4.62.3,4.61.2,mismatch
+traitlets,5.1.1,5.1.1,matching
+transformers,,4.10.0,local missing
+tune-sklearn,,0.4.1,local missing
+typeguard,,2.13.3,local missing
+typing-extensions,4.1.1,3.7.4.3,mismatch
+uWSGI,2.0.20,,cluster missing
+uritemplate,,3.0.1,local missing
+urllib3,1.26.6,1.26.6,matching
+uvicorn,0.18.3,0.16.0,mismatch
+w3lib,1.22.0,,cluster missing
+wandb,,0.12.5,local missing
+wcwidth,0.2.5,0.2.5,matching
+webencodings,0.5.1,0.5.1,matching
+websocket-client,1.2.3,1.2.3,matching
+wheel,0.37.1,0.36.2,mismatch
+widgetsnbextension,3.5.2,3.5.2,matching
+wrapt,1.14.1,1.12.1,mismatch
+xgboost,1.6.2,1.6.2,matching
+xgboost-ray,0.1.8,0.1.8,matching
+xmltodict,,0.12.0,local missing
+yacs,,0.1.8,local missing
+yarl,1.6.3,1.7.2,mismatch
+yaspin,,2.1.0,local missing
+zict,,2.0.0,local missing
+zipp,3.7.0,3.6.0,mismatch
+zoopt,,0.4.1,local missing
+zope.interface,5.4.0,,cluster missing
