@@ -6,10 +6,6 @@
   * 1-Beginner-Ray-Core.ipynb
   * 2-Intermediate-Ray-Core-And-Large-Data.ipynb
   * 3-Intermediate-XGBoost-Ray-Tune.ipynb
-* Slides (under slides folder):
-  * DLG Ray Beginner Workshop.pdf (pairs with notebook 1)
-  * DLG Ray Intermediate (part 1) Workshop.pdf (pairs with notebook 2)
-  * DLG Ray Intermediate (part 2) Workshop.pdf (pairs with notebook 3)
 * Other Notebooks:
   * admin-notebooks/2-Intermediate-data-gen.ipynb (generates files needed for notebook 2)
   * troubleshooting/check_packages.ipynb (useful during compute environment setup)
