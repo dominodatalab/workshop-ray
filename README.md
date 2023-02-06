@@ -14,7 +14,7 @@
 
 ## Project and Workspace Setup
 
-1. Fork or Copy this project, or otherwise get these files into a Domino project.
+1. Fork or Copy this project, or otherwise get these files into a Domino project. Creating a Git-based project pointing to the original repo from Domino or your personal forked copy of the original repo are other options.
 2. Mount the Datasets (not needed for Beginner notebook)
    * Navigate to Data in the project sidebar
    * Click on the "Domino Datasets" tab
@@ -117,11 +117,13 @@ Be sure to select Ray for **Supported Cluster Settings**.
 ### Datasets
 
 For `2-Intermediate-Ray-Core-And-Large-Data.ipynb`:
+* If the data is not already available in a shared dataset in your Domino deployment you can create it as follows
 * Create a Dataset in this project (suggested name `Points-For-Pi-Approximation`).
 * Once created, launch a Workspace on Large hardware (no Ray cluster needed) with the Ray compute environment.
 * Run the admin notebook `2-Intermediate-data-gen.ipynb` to generate the relevant files in the dataset.
 
 For `3-Intermediate-XGBoost-Ray-Tune.ipynb`:
+* If the data is not already available in a shared dataset in your Domino deployment you can create it as follows
 * Create a Dataset in this project (suggested name `CA-Housing`).
 * Once created, launch a Workspace on Large hardware (no Ray cluster needed) with the Ray compute environment.
 * Run the first few cells in `3-Intermediate-XGBoost-Ray-Tune.ipynb` to generate the relevant files in the dataset.
